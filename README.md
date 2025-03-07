@@ -1,4 +1,4 @@
-# flutter_application_1
+# Flutter Template by IAL07
 
 A new Flutter project.
 
