@@ -1,0 +1,1 @@
+export 'service.post.dart';
